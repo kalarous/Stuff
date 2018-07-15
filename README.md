@@ -1,2 +1,1 @@
-My Personal Software Depot.
-We'll see what ends up here.
+First Project Folder - Let's see how this ends up.
