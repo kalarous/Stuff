@@ -1,3 +1,2 @@
-# Stuff
-Public Repo for Stuff I Create.\n
-More to come - I'm sure.
+My Personal Software Depot.
+We'll see what ends up here.
